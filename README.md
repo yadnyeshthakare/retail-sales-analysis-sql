@@ -1,12 +1,12 @@
 # retail-sales-analysis-sql
-This project analyzes retail transaction data using SQL for data exploration, business analysis, and reporting, along with basic data quality profiling using Python.
+This project analyzes retail transaction data using SQL for data exploration, business analysis, and reporting, along with data quality profiling using Python.
 
 It demonstrates how raw transactional data can be validated, explored, and transformed into business insights using common data analyst workflows.
 
 ## Project Overview
 
-Tools: SQL (PostgreSQL), Python (Pandas) – used for analysis and basic data quality checks  
-Type: Data Analysis and Data Quality Assessment (Beginner level)  
+Tools: SQL (PostgreSQL), Python (Pandas) – used for analysis and data quality checks  
+Type: Data Analysis and Data Quality Assessment 
 
 The dataset contains sales transactions including customer details, product categories, quantities, pricing, and dates. The analysis focuses on revenue trends, customer behavior, product performance, and basic business risk indicators.
 
@@ -118,6 +118,6 @@ Gmail: thakareyadnyesh@gmail.com
 ## Summary
 
 
-This project demonstrates a practical workflow for analyzing retail transaction data using SQL and validating dataset quality using Python-based automated profiling. It reflects real-world tasks commonly performed in entry-level data analyst and reporting roles, including data cleaning, trend analysis, customer segmentation, and business metric evaluation.
+This project demonstrates a practical workflow for analyzing retail transaction data using SQL and validating dataset quality using Python-based automated profiling. It reflects real-world tasks commonly performed in data analyst and reporting roles, including data cleaning, trend analysis, customer segmentation, and business metric evaluation.
 
 
